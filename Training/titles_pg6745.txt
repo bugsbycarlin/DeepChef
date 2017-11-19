@@ -1,0 +1,842 @@
+Spring Soup.
+Spring and Summer Soup Without Stock.
+Giblet Soup.
+Potage à la Reine,
+Tomato Soup.
+Mock Bisque Soup.
+Onion Soup.
+Potato Soup.
+Asparagus Soup.
+Green Pea Soup.
+Pumpkin Soup.
+Cream of Celery Soup.
+Tapioca Cream Soup.
+Cream of Rice Soup.
+Cream of Barley Soup.
+Duchess Soup.
+Yacht Oyster Soup.
+Lobster Soup with Milk.
+Lobster Soup with Stock.
+Philadelphia Clam Soup.
+Fish Chowder.
+Corn Chowder.
+Corn Soup.
+Glaze.
+French Paste for Soups.
+Egg Balls.
+Fried Bread for Soups.
+FISH.
+A General Chapter on Fish.
+Boiled Fish.
+Court-Bouillon.
+Boiled Cod with Lobster Sauce.
+Boiled Haddock with Lobster Sauce.
+Cold Boiled Fish, a la Vinaigrette.
+Baked Fish.
+Broiled Fish.
+Broiled Halibut.
+Broiled Halibut, with Maître d' Hôtel Butter.
+Stewed Fish.
+Fried Fish.
+To Cook Salt Codfish.
+Dropped Fish Balls.
+Common Fish Balls.
+Salt Fish with Dropped Eggs.
+Salt Codfish, in Purée of Potatoes.
+Salt Fish Soufflé.
+Cusk, à la Crème.
+Escaloped Fish.
+Turbot à la Crème.
+Matelote of Codfish.
+Smelts à la Tartare.
+Smelts as a Garnish,
+Fish au Gratin.
+Eels à la Tartare.
+Stewed Eels.
+OYSTERS.
+On the Half Shell.
+On a Block of Ice.
+Roasted Oysters on Toast.
+Oysters Panned in their Own Liquor.
+Oysters Panned in the Shell.
+Oyster Sauté.
+Oysters Roasted in the Shell.
+Little Pigs in Blankets.
+Fricasseed Oysters.
+Creamed Oysters.
+Crôustade of Oysters.
+Escaloped Oysters.
+Escaloped Oysters, No. 2.
+Oysters Served in Escalop Shells.
+Oyster Chartreuse.
+To Pickle Oysters
+LOBSTER.
+To open a lobster.
+Lobster Broiled in the Shell.
+Broiled Lobster.
+Breaded Lobster.
+Stewed Lobster.
+Curry of Lobster.
+Devilled Lobster in the Shell.
+Escaloped Lobster.
+Lobster Cutlets.
+Canned Lobster.
+OTHER SHELL-FISH.
+Stewed Terrapins.
+Soft-Shell Crabs.
+MEATS.
+BOILING.
+Leg of Mutton.
+Lamb.
+Cook the same as mutton. Serve with drawn butter.
+Boiled Ham.
+Salt Tongue.
+Fresh Tongue.
+Corned Beef.
+ROASTING.
+Roasting in the Oven.
+Boiled Rib Roast.
+Roast Beef, with Yorkshire Pudding.
+Fillet of Veal, Roasted.
+Roast Ham.
+BROILING.
+Mutton Chops.
+Beef Steak.
+MISCELLANEOUS MODES.
+Braised Beef.
+Fricandeau of Veal.
+Leg of Lamb à la Française.
+Braised Breast of Lamb.
+Beef Stew.
+Irish Stew.
+Toad in the Hole.
+Scotch Roll.
+POULTRY AND GAME.
+To Clean and Truss Poultry.
+Fowl and Pork.
+Boiled Fowl with Macaroni.
+Boiled Turkey with Celery.
+Boiled Turkey.
+Roast Turkey.
+Roast Turkey with Chestnut Stuffing and Sauce.
+Boned Turkey.
+Roast Goose.
+Roast Duck.
+Roast Chicken.
+Chicken à la Matelote.
+Chicken à la Reine.
+Chicken à la Tartare.
+Broiled Chicken.
+Chicken Stew with Dumplings.
+Larded Grouse.
+Larded Partridges.
+Partridges are cooked and served the same as grouse.
+Larded Quail.
+Broiled Quail.
+Broiled Pigeons.
+Broiled Small Birds.
+Small Birds, Roasted.
+Potted Pigeons.
+Pigeons in Jelly.
+Roast Rabbit.
+Curry of Rabbit.
+Saddle of Venison.
+Roast Leg of Venison.
+ENTREES.
+Fillet of Beef, Larded.
+Fillet of Beef à la Hollandaise.
+Fillet of Beef à l'Allemand.
+Fillet of Beef in Jelly.
+Alamode Beef.
+Macaronied Beef.
+Cannelon of Beef.
+Cannelon of Beef, No. 2.
+Beef Roulette.
+Beef Olives.
+Veal Olives.
+Fricandelles of Veal.
+Braised Tongue.
+Fillets of Tongue.
+Escaloped Tongue.
+Tongue in Jelly.
+Lambs' Tongues in Jelly.
+Lambs' Tongues, Stewed.
+Stewed Ox Tails.
+Ox Tails à la Tartare.
+Haricot of Ox Tails.
+Ragout of Mutton.
+Ragout of Veal.
+Chicken Pie.
+Pasties of Game and Poultry.
+Cold Game Pie.
+Pâté de Foies Gras.
+Chartreuse of Chicken.
+Chartreuse of Vegetables and Game.
+Chartreuse of Chicken and Macaroni.
+Galatine of Turkey.
+Galatine of Veal.
+Chicken in Jelly.
+Chicken Chaud Froid.
+To Remove a Fillet from a Fowl or Bird.
+Chicken Fillets, Larded and Breaded.
+Chicken Fillets, Braised.
+Chicken Fillets, Sauté.
+Chicken Curry.
+Veal Curry.
+Chicken Quenelles.
+Chicken Quenelles, Stuffed.
+Chicken Quenelles, Breaded.
+Veal Quenelles.
+Chicken Pilau.
+Chicken Soufflé.
+Fried Chicken.
+Blanquette of Chicken.
+Blanquette of Veal and Ham.
+Salmis of Game,
+Game Cutlets à la Royale.
+Cutlets à la Duchesse.
+Cutlets served in Papillotes.
+Veal Cutlets with White Sauce.
+Mutton Cutlets, Crumbed.
+Mutton Cutlets, Breaded.
+Stewed Steak with Oysters.
+Rice Borders.
+Potato Border.
+To Make a Crôustade.
+Cheese Soufflé.
+Rissoles.
+Fritter Batter.
+Fritter Batter, No. 2.
+Chicken Fritters.
+Apple Fritters.
+Fruit Fritters.
+Oyster Fritters.
+Clam Fritters.
+Cream Fritters.
+Potato Fritters.
+Croquettes.
+Royal Croquettes.
+Royal Croquettes, No. 2.
+Oyster Croquettes.
+Lobster Croquettes.
+Salmon Croquettes.
+Shad Roe Croquettes.
+Rice and Meat Croquettes.
+Rice Croquettes.
+Potato Croquettes.
+Chicken Croquettes.
+Many people think a teaspoonful of chopped parsley an improvement,
+Other Croquettes.
+Large Vol-au-Vent.
+Vol-au-Vent of Chicken.
+Vol-au-Vent of Sweetbreads.
+Vol-au-Vent of Salmon.
+Vol-au-Vent of Oysters.
+Vol-au-Vent of Lobster.
+Patties.
+Chicken Patties.
+Veal Patties.
+Lobster Patties.
+Oyster Patties.
+Crust Patties.
+Sweetbreads.
+To Clean Sweetbreads.
+Sweetbreads Larded and Baked.
+Sweetbread Sauté.
+Broiled Sweetbreads.
+Breaded Sweetbreads.
+Sweetbreads in Cases.
+Pancakes.
+SALADS.
+Mayonnaise Dressing.
+Salad Dressing Made at the Table.
+Cream Salad Dressing.
+Red Mayonnaise Dressing.
+Green Mayonnaise Dressing.
+Aspic Mayonnaise Dressing.
+Boiled Salad Dressing.
+Sour Cream Salad Dressing.
+Sardine Dressing.
+Salad Dressing Without Oil.
+Salad Dressing made with Butter.
+Bacon Salad Dressing.
+French Salad Dressing.
+Chicken Salad.
+Lobster Salad.
+Salmon Salad.
+Oyster Salad.
+Sardine Salad.
+Shad Roe Salad.
+Salads of Fish.
+Polish Salad.
+Beef Salad.
+Meat and Potato Salad.
+Bouquet Salad.
+Cauliflower Salad.
+Asparagus Salad.
+Asparagus and Salmon Salad.
+Cucumber Salad.
+Tomato Salad.
+Cabbage Salad.
+Hot Cabbage Salad.
+Vegetable Salad.
+Red Vegetable Salad.
+Potato Salad.
+Potato Salad, No. 2.
+Cooked Vegetables in Salad.
+Dressed Celery.
+Lettuce Salad.
+MEAT AND FISH SAUCES.
+Brown Sauce.
+White Sauce.
+White Sauce, No. 2.
+White Sauce, No. 3.
+White Sauce, No. 4.
+Bechamel Sauce.
+Cream Bechamel Sauce.
+Allemande Sauce.
+Cream Sauce.
+Cream Sauce, No. 2.
+Polish Sauce.
+Robert Sauce.
+Supreme Sauce.
+Olive Sauce.
+Flemish Sauce.
+Chestnut Sauce.
+Celery Sauce.
+Brown Mushroom Sauce.
+Brown Mushroom Sauce, No, 3.
+White Mushroom Sauce.
+Beurre Noir.
+Maitre d' Hotel Butter.
+Maître d' Hôtel Sauce.
+Hollandaise Sauce.
+Lobster Sauce.
+Butter Sauce.
+White Oyster Sauce.
+Brown Oyster Sauce.
+Shrimp Sauce.
+Anchovy Sauce.
+Egg Sauce.
+Fine Herbs Sauce.
+Caper Sauce.
+Mustard Sauce.
+Curry Sauce.
+Vinaigrette Sauce.
+Piquant Sauce.
+Tomato Sauce.
+Tartare Sauce.
+Champagne Sauce.
+Port Wine Sauce for Game.
+Currant Jelly Sauce.
+Bread Sauce for Game.
+FORCE-MEAT AND GARNISHES.
+Force-Meat for Game.
+Ham Force-Meat.
+Veal Force-Meat.
+Chicken Force-Meat.
+Fish Force-Meat.
+Jelly Border.
+Marinade for Fish.
+Cold Marinade.
+To Get Onion Juice.
+To Fry Parsley.
+To Make Spinach Green.
+Points of Lemon.
+To Make a Bouquet of Sweet Herbs.
+VEGETABLES.
+Potatoes, boiled. 30 minutes.
+Potatoes, baked. 45 minutes.
+Sweet Potatoes, boiled. 45 minutes.
+Sweet Potatoes, baked. 1 hour.
+Squash, boiled. 25 minutes.
+Squash, baked. 45 minutes.
+Green Peas, boiled. 20 to 40 minutes.
+Shell Beans, boiled. 1 hour.
+String Beans, boiled. 1 to 2 hours.
+Green Corn. 25 minutes to 1 hour.
+Asparagus. 15 to 30 minutes.
+Tomatoes, fresh. 1 hour.
+Tomatoes, canned. 30 minutes.
+Cabbage. 45 minutes to 2 hours.
+Cauliflower. 1 to 2 hours.
+Dandelions. 2 to 3 hours.
+Beet Greens. 1 hour.
+Onions. 1 to 2 hours.
+Turnips, white. 45 minutes to 1 hour.
+Turnips, yellow. 1 1/2 to 2 hours.
+Parsnips. 1 to 2 hours.
+Carrots. 1 to 2 hours.
+Potatoes.
+Boiled Potatoes.
+Mashed Potatoes.
+Purée of Potato.
+Potato Puffs.
+Riced Potato.
+Potato à la Royale.
+Potatoes à l'Italienne.
+Thin Fried Potatoes.
+French Fried Potatoes.
+Potatoes à la Parisienne.
+Potato Balls Fried in Butter.
+Potatoes Baked with Roast Beef.
+Broiled Potatoes.
+Lyonnaise Potatoes.
+Duchess Potatoes.
+Housekeeper's Potatoes.
+Potatoes à la Maître d' Hôtel.
+Stewed Potatoes.
+Creamed Potatoes.
+Escaloped Potatoes.
+Potato Soufflé.
+Sweet Potatoes.
+French Fried Sweet Potatoes.
+Cold Boiled Sweet Potatoes.
+Plain Boiled Macaroni.
+Macaroni in Gravy.
+Macaroni with Cream Sauce.
+Macaroni with Tomato Sauce.
+Macaroni with Cheese.
+Macaroni à l'Italienne.
+Stuffed Tomatoes.
+Stuffed Tomatoes, No 2.
+Escaloped Tomatoes.
+Broiled Tomatoes.
+Fried Tomatoes.
+To Peel Tomatoes.
+Baked Onions.
+Stuffed Onions.
+Parsnips Fried in Butter.
+Parsnips Fried in Molasses.
+Parsnip Balls.
+Escaloped Parsnip.
+Asparagus with Cream.
+Green, Peas à la Française.
+Minced Cabbage.
+Minced Spinach.
+Cauliflower with Cream Sauce.
+Escaloped Cauliflower.
+Stewed Celery with Cream Sauce.
+Celery Stewed in Stock.
+Stewed Okra.
+Okra Stewed with Tomatoes.
+Scalloped Okra and Tomatoes.
+Fried Egg Plant.
+Boiled Rice.
+Corn Oysters.
+New Bedford Corn Pudding.
+Pickled Beets.
+Baked Beans.
+PIES AND PUDDINGS.
+Puff Paste.
+Chopped Paste.
+French Paste for Raised Pies.
+To Make a Pie.
+Mince Pie Meat.
+Squash pies.
+Sweet Potato Pies.
+Lemon Pie.
+Orange Pies.
+Chocolate Pies.
+HOT PUDDINGS.
+Custard Soufflé.
+Cabinet Pudding.
+English Plum Pudding.
+Rachel Pudding.
+Chocolate Pudding.
+Chocolate Roll Pudding.
+Ground Rice Pudding.
+Rice Pudding.
+German Puffs.
+Down-East Pudding.
+Amber Pudding.
+Fig Pudding.
+Date Pudding.
+Apple Tapioca Pudding.
+Baked Apple Pudding.
+Dutch Apple Pudding.
+Apple Soufflé.
+Apple and Rice Pudding.
+Eve's Pudding.
+Batter and Fruit Pudding.
+Amherst Pudding.
+Swiss Pudding.
+Delicate Indian Pudding.
+Indian and Apple Pudding.
+COLD PUDDINGS.
+Royal Pudding.
+Cold Tapioca Pudding.
+Danish Pudding.
+Black Pudding.
+Almond Pudding.
+Jenny Lind Pudding.
+Peach Meringue Pudding.
+Apple Meringue Pudding.
+Frozen Cabinet Pudding.
+Frozen Cabinet Pudding, No. 2.
+Peach Pudding.
+Orange Pudding.
+Orange Pudding, No. 3.
+Royal Diplomatic Pudding.
+Orange Diplomatic Pudding.
+Lemon Diplomatic Pudding.
+Bird's Nest Pudding.
+Quince Iced Pudding.
+Princess Pudding.
+Apple Porcupine.
+SAUCES.
+Rich Wine Sauce.
+Creamy Sauce.
+Foaming Sauce.
+German Sauce.
+German Sauce, No. 2.
+Lemon Sauce.
+Cream Sauce.
+Vanilla Sauce.
+Molasses Sauce.
+Caramel Sauce.
+Quince Sauce.
+Apricot Sauce.
+DESSERT.
+Blanc-Mange Made with Sea Moss Farina.
+Blanc-Mange Made with Gelatine.
+Blanc-Mange Made with Isinglass.
+Chocolate "Blanc"-Mange.
+Cream à la Versailles.
+Royal Cream.
+Lemon Sponge.
+Orange Sponge.
+Peach Sponge.
+Strawberry Sponge.
+Pineapple Sponge.
+Strawberry Bavarian Cream.
+Orange Bavarian Cream.
+Peach Bavarian Cream.
+Pineapple Bavarian Cream.
+Almond Bavarian Cream.
+Chocolate Bavarian Cream.
+Coffee Bavarian Cream.
+Directions for Freezing.
+Vanilla Ice Cream.
+Vanilla Ice Cream, No. 2.
+Lemon Ice Cream.
+Lemon Ice Cream, No. 2.
+Orange Ice Cream.
+Pineapple Ice Cream.
+Pineapple Ice Cream, No. 2.
+Strawberry Ice Cream.
+Strawberry Ice Cream à la Surprise.
+Raspberry Ice Cream.
+Apricot Ice Cream.
+Peach Ice Cream.
+Banana Ice Cream.
+Chocolate Ice Cream.
+Brown Bread Ice Cream.
+Macaroon Ice Cream.
+Coffee Ice Cream.
+Caramel Ice Cream.
+Almond Ice Cream.
+Almond Ice Cream, No. 2.
+Pistachio Ice Cream.
+Walnut Ice Cream.
+Cocoanut Ice Cream.
+Fig Ice Cream.
+Glacé Méringue.
+Bombe Glacée.
+Frozen Pudding.
+Nesselrode Pudding.
+Lemon Sherbet.
+Lemon. Sherbet, No. 2.
+Orange Sherbet.
+Orange Sherbet, No. 2.
+Pineapple Sherbet.
+Pineapple Sherbet, No. 2.
+Strawberry Sherbet.
+Strawberry Sherbet, No. 2.
+Raspberry Sherbet.
+Raspberry Sherbet, No. 2.
+Currant Sherbet.
+Currant Sherbet, No. 2.
+Frozen Strawberries.
+Frozen Raspberries.
+Frozen Peaches.
+Frozen Apricots.
+Biscuit Glacé.
+Biscuit Glacé, No. 2.
+Chocolate Soufflé.
+Orange Soufflé.
+Surprise Soufflé.
+Omelet Soufflé à la Crème.
+Omelet Soufflé à la Poêle.
+Charlotte Russe.
+Charlotte Russe, No. 2.
+Apple Charlotte.
+Calf's Foot Jelly.
+Wine Jelly.
+Cider Jelly.
+Lemon Jelly.
+Orange Jelly.
+Currant Jelly.
+Strawberry Jelly.
+Pineapple Jelly.
+Coffee Jelly.
+Soft Custard.
+Soft Caramel Custard.
+Chocolate Whips.
+Kisses.
+Cream Méringues.
+Kiss Wafers.
+Brier Hill Dessert.
+Richmond Maids of Honor.
+Fanchonettes.
+Fruit Glacè.
+Gâteau Saint Honoré.
+CAKE.
+Rice Cake.
+Silver Cake.
+Gold Cake.
+Angel Cake.
+Sunshine Cake.
+Demon Cake.
+Ames Cake.
+Black Cake.
+Fruit Cake.
+Wedding Cake.
+Lady's Cake.
+Queen's Cake.
+Composition Cake.
+Ribbon Cake.
+Regatta Cake.
+Nut Cake.
+Snow Flake Cake.
+Federal Cake.
+Sponge Rusks.
+Taylor Cake.
+Loaf Cake.
+Chocolate Cake.
+Chocolate Cake, No. 2.
+Orange Cake.
+Railroad Cake.
+Hot Water Sponge Cake.
+Sponge Cake.
+Sponge Cake, No. 2.
+Viennois Oakes.
+Dominos.
+Lady-Fingers.
+Sponge Drops.
+Sponge Drops, No. 2.
+Sponge Cake for Charlotte Russe.
+Jelly Roll.
+Molasses Pound Coke.
+Soft Gingerbread.
+Hard Gingerbread.
+Canada Gingerbread.
+Fairy Gingerbread.
+Shewsbury Cake.
+Jumbles.
+Seed Cakes.
+Cookies.
+Hermits.
+Kneaded Plum Cake.
+Eclairs.
+Chocolate Éclairs.
+Vanilla Éclairs.
+Frosting.
+Chocolate Icing.
+Chocolate Icing, No. 2.
+Caramel Frosting.
+Golden Frosting.
+Marking Cakes in Gold.
+PRESERVING.
+Strawberries.
+Raspberries.
+Cherries.
+Currants.
+Currants should be prepared the same as raspberries.
+Pineapple.
+Grated Pineapple.
+Blackberries.
+Whortleberries.
+Crab-Apples.
+Pears.
+Peaches.
+Brandied Peaches.
+Plums.
+Damsons.
+Quinces.
+Sour Oranges.
+Grapes.
+Apple Ginger.
+Raspberry or Strawberry Jam.
+Orange Marmalade.
+Quince Marmalade.
+Currant Jelly.
+Barberry Jelly.
+Grape Jelly.
+Cider Apple Jelly.
+Crab-Apple Jelly.
+Other Jellies.
+PICKLES AND KETCHUP.
+Pickled Blueberries.
+Sweet Melons.
+Peaches, Pears and Sweet Apples.
+Sweet Tomato Pickle.
+Spiced Currants.
+Spiced Plums.
+Pickled Cucumbers.
+Pickled Cucumbers, No. 2.
+Stuffed Peppers.
+Mangoes.
+Chopped Pickle.
+Pickled Tomato.
+Pickled Cauliflowers.
+Tomato Ketchup.
+Tomato Ketchup, No, 2.
+Barberry Ketchup.
+POTTING.
+Beef.
+Chicken.
+Tongue.
+Ham.
+Marbled Veal.
+Fish.
+Lobster.
+Mackerel.
+Smelts.
+BREAKFAST AND TEA.
+Meat Hash.
+Vegetable Hash.
+Breaded Sausages.
+Meat Fritters.
+Lyonnaise Tripe.
+Meat and Potato Sandwiches.
+Minced Veal and Eggs.
+Mutton, Réchauffé.
+Chicken In Jelly.
+Chicken Cutlets.
+Broiled Liver.
+Liver, Fried in Crumbs.
+Liver and Bacon.
+Liver, Sauté.
+Liver, Sauté, with Piquant Sauce.
+Curry of Liver.
+Chicken Livers, Sauté.
+Chicken Livers and Bacon.
+Chicken Livers in Papillotes.
+Stewed Kidneys.
+Kidneys, Sauté.
+Broiled Kidneys.
+Kidneys à la Maître d'Hôtel.
+Ham and Eggs on Toast.
+Ham Croquettes.
+Canapees.
+Welsh Rare-Bit.
+Welsh, Rare-Bit, No. 2.
+Corn Pie.
+Hominy.
+Oatmeal.
+Strawberry Short-Cake.
+Sweet Strawberry Short-Cake.
+MUFFINS AND CAKES.
+English Muffins.
+Muffins, No. 1.
+Muffins, No. 2.
+Raised Muffins.
+Graham Muffins.
+Raised Graham Muffins.
+Corn Muffins.
+Fried Indian Muffins.
+Corn Cake.
+Corn Cake, No. 2.
+Raised Corn Cake.
+Thin Corn Cake.
+Rye Muffins.
+Fried Rye Muffin.
+Rice Muffins.
+Raised Rice Muffins.
+Hominy Muffins.
+Gems.
+Hominy Drop-Cakes.
+Squash Biscuit.
+Sally Lunn.
+Snow Pancakes.
+Waffles.
+Waffles, No. 2.
+Raised Waffles.
+Indian Waffles.
+Rice Waffles.
+Flannel Cakes.
+Graham Griddle-Cakes.
+Squash Griddle-Cakes.
+Indian Griddle-Oakes.
+Hominy Griddle-Cakes.
+EGGS.
+Omelets.
+Plain Omelet.
+Quaker Omelet.
+Cheese Omelet.
+Ham Omelet.
+Chicken Omelet.
+Jelly Omelet.
+Savory Omelet.
+Fish Omelet.
+Corn Omelet.
+Baked Omelet.
+Dropped Eggs,
+Scrambled Eggs.
+Poached Eggs.
+Soft-boiled Eggs.
+Soft-boiled Eggs, No. 2.
+Hard-boiled Eggs.
+Spanish Eggs.
+Eggs Sur Le Plat.
+Creamed Eggs.
+Stuffed Eggs.
+Scotch Eggs.
+Eggs, Brouillé.
+ECONOMICAL DISHES.
+Calf's Liver, Braised.
+Beef Stew.
+Cold Meat with Purée of Potato.
+Shepherds' Pie.
+Shepherds' Pie, No. 2.
+Escaloped Meat.
+Curry of Cold Meat.
+Barley Stew.
+Dumplings.
+BREAD.
+Yeast.
+Yeast Bread, No. 1.
+Yeast Bread, No. 2.
+Bread Made with Dried Yeast.
+Sticks.
+Graham Bread.
+Togus Bread.
+Brown Bread.
+DRINKS.
+Cocoa.
+To Make Cocoa.
+Shells.
+Chocolate.
+Coffee.
+Boiled Coffee.
+Filtered Coffee.
+Vienna Coffee.
+Café au Lait.
+Steamed Coffee.
+Tea.
+Lemonade.
+HOW--
+To Blanch Almonds.
+To Corn Beef.
+To Scrape Chocolate.
+To Use the Salamander.
+To Clean English Currants.
+To Remove Jellies and Creams from Moulds.
+To Whip Cream.
+To Boil Sugar.
+To Make and Use a Pastry Bag.
+To Make Paper Cases.
+Cut the paper on the dark lines--(there are _eight_).
+Crease on every dotted line.
+Fold the parts B up against the backs of the parts A.
